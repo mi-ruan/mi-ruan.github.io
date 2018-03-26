@@ -148,7 +148,7 @@ ul li {
 }
 .navigation a {
 	color: rgba(255, 255, 255, 0.75);
-	font-size: 24px;
+	font-size: 16px;
 	font-weight: 400;
 	margin-left: 40px;
 	letter-spacing: 3px;
@@ -487,10 +487,10 @@ ul li {
 	background: #3d3d3d none repeat scroll 0 0;
 	border-radius: 50%;
 	color: #ffffff;
-	width: 26px;
-	height: 26px;
+	width: 40px;
+	height: 40px;
 	border-radius: 50%;
-	padding: 4px 0;
+	padding: 5px 0;
 	margin: 0 5px;
 	display: inline-block;
 	float: none;
@@ -498,10 +498,15 @@ ul li {
 .footer .footer-share a {
 	color: #fff;
 }
+
 .footer .fa-heart {
 	color: #e84545;
 	font-size: 11px;
 	margin: 0 2px;
+}
+
+.footer .footer-share .fa {
+	font-size: 30px;
 }
 
 /* ------------------------------------------------------------------------------
